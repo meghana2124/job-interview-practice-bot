@@ -1,7 +1,5 @@
 # job-interview-practice-bot
 
-# Interactive Job Interview Practice Bot
-
 A Streamlit-based app that helps users prepare for technical job interviews with instant feedback using semantic similarity.
 
 ## Features
